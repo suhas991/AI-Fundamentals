@@ -1,0 +1,17 @@
+Prompt Engineering
+
+The aim of prompt engineering is to strike a balance between providing sufficient guidance to the model while avoiding overly constraining its creativity and language generation capabilities.
+
+Through careful manipulation of prompts, engineers can shape the behavior of the language model to produce more accurate, coherent, and contextually appropriate responses.
+
+Traits for Prompt Engineers include:
+- LLM Architecture Knowledge
+- Making Ambiguous Problems Clear
+- ID Core Principles That Translate Across Scenarios
+
+A prompt engineer understands:
+
+- The industry and product they work with
+- Tasks from clients
+- The model’s capabilities and limitations
+- Potential data biases
