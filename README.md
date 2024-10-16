@@ -1,5 +1,19 @@
 ## Artificial Intelligence - Fundamentals
 
+What is Artificial Intelligence ? </br>
+The capability of a machine to imitate intelligent human behaviour. </br>
+Example : Chatbots & Virual Asssitants (chatGpt , Genmini)
+
+Real World Examples of Artificial Intelligence 
+- Healthcare Diagnostics
+- Fraud detection in Finance
+- E-Commerce Recomendations
+- Sentiment Analysis for Market Research
+
+What is Generative AI ? </br>
+It is a category of Artificial Intelligence that can generate new content,text,images and sounds by learninf from a large dataset of existinf contents. </br>
+
+
 ### Prompt Engineering
 
 The aim of prompt engineering is to strike a balance between providing sufficient guidance to the model while avoiding overly constraining its creativity and language generation capabilities.
@@ -146,6 +160,11 @@ A neural network is a tool in AI and machine learning which loosely mimics the s
 Transformer models employ a self-attention mechanism and parallel processing, enabling them to capture long-range dependencies and handle large-scale sequential data effectively. 
 
 ![image](https://github.com/user-attachments/assets/2ed0b084-a666-4bd3-bc6f-f4b7ed881f12)
+
+## Introduction to AI Agents
+
+
+
 
 
   
