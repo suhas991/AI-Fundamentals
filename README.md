@@ -13,6 +13,15 @@ Real World Examples of Artificial Intelligence
 What is Generative AI ? </br>
 It is a category of Artificial Intelligence that can generate new content,text,images and sounds by learninf from a large dataset of existinf contents. </br>
 
+Application of Gen Ai
+- Written content creation
+- Question Answering
+- Tone Adjustment
+- Summarization
+- Content Simplification
+- Content classification
+- Chatbot Enchancement
+- Software Coding Assistance
 
 ### Prompt Engineering
 
