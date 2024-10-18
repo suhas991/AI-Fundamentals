@@ -21,19 +21,17 @@ Thus, the problem of knowledge representation is to find some effective way to r
 ### Classifying Computer Knowledge Representations
 
 - *Network representations* are based on the fact that we have a network of interrelated concepts inside our head. We can try to reproduce the same networks as a graph inside a computer - a so-called semantic network. <br/>
-Object-Attribute-Value triplets or attribute-value pairs. Since a graph can be represented inside a computer as a list of nodes and edges, we can represent a semantic network by a list of triplets, containing objects, attributes, and values. For example, we build the following triplets about programming languages:
+Object-Attribute-Value triplets or attribute-value pairs. Since a graph can be represented inside a computer as a list of nodes and edges, we can represent a semantic network by a list of triplets, containing objects, attributes, and values. For example, we build the following triplets about programming languages:</br>
+![image](https://github.com/user-attachments/assets/facd65d3-97b5-4864-9299-0543bb7c17f8)
 
-Object	|  Attribute	    |Value
----------------------------------------------
-Python	|  is	            |Untyped-Language
-Python	|  invented-by	    |Guido van Rossum
-Python	|  block-syntax	    |indentation
-
-- *Hierarchical representations* emphasize the fact that we often create a hierarchy of objects inside our head. For example, we know that canary is a bird, and all birds have wings. We also have some idea about what colour a canary usually is, and what is their flight speed.
-
+- *Hierarchical representations* emphasize the fact that we often create a hierarchy of objects inside our head. For example, we know that canary is a bird, and all birds have wings. We also have some idea about what colour a canary usually is, and what is their flight speed.</br>
 Frame representation is based on representing each object or class of objects as a frame which contains slots. Slots have possible default values, value restrictions, or stored procedures that can be called to obtain the value of a slot. All frames form a hierarchy similar to an object hierarchy in object-oriented programming languages.
 
-- *Procedural representations* are based on representing knowledge by a list of actions that can be executed when a certain condition occurs.
-
+- *Procedural representations* are based on representing knowledge by a list of actions that can be executed when a certain condition occurs.</br>
 Production rules are if-then statements that allow us to draw conclusions. For example, a doctor can have a rule saying that IF a patient has high fever OR high level of C-reactive protein in blood test THEN he has an inflammation. Once we encounter one of the conditions, we can make a conclusion about inflammation, and then use it in further reasoning.
 Algorithms can be considered another form of procedural representation, although they are almost never used directly in knowledge-based systems.
+
+- *Logic* was originally proposed by Aristotle as a way to represent universal human knowledge.
+  Predicate Logic as a mathematical theory is too rich to be computable, therefore some subset of it is normally used, such as Horn clauses used in Prolog.
+Descriptive Logic is a family of logical systems used to represent and reason about hierarchies of objects distributed knowledge representations such as semantic web.
+
