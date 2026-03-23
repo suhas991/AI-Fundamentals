@@ -170,8 +170,6 @@ Transformer models employ a self-attention mechanism and parallel processing, en
 
 ![image](https://github.com/user-attachments/assets/2ed0b084-a666-4bd3-bc6f-f4b7ed881f12)
 
-## Introduction to AI Agents
-
 
 
 
