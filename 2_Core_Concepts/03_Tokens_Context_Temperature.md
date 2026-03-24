@@ -281,4 +281,4 @@ TEMPERATURE
 
 ---
 
-*Previous: [02 — Large Language Models](./02_Large_Language_Models.md) | Next: [04 — Prompt Engineering](./04_Prompt_Engineering.md)*
+*Previous: [02 — Large Language Models](./02_Large_Language_Models.md)*

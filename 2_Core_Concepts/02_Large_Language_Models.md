@@ -206,4 +206,4 @@ This is achieved by adding **encoders** for other modalities that project them i
 
 ---
 
-*Previous: [01 — AI vs ML vs DL](./01_AI_ML_DL_Differences.md) | Next: [03 — Tokens, Context Window & Temperature](./03_Tokens_Context_Temperature.md)*
+*Previous: [01 — AI vs ML vs DL](./01_AI_ML_DL_Differences.md)*

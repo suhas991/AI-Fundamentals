@@ -303,4 +303,4 @@ REACT         Reason + Act in a loop. Foundation of agents.
 
 ---
 
-*Previous: [03 — Tokens, Context Window & Temperature](./03_Tokens_Context_Temperature.md) | Next: [05 — System Prompts vs User Prompts](./05_System_vs_User_Prompts.md)*
+*Previous: [03 — Tokens, Context Window & Temperature](./03_Tokens_Context_Temperature.md)*

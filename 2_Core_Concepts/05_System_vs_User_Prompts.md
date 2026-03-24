@@ -297,4 +297,4 @@ ASSISTANT ROLE
 
 ---
 
-*Previous: [04 — Prompt Engineering](./04_Prompt_Engineering.md) | Next: [06 — Hallucinations & Limitations](./06_Hallucinations_Limitations.md)*
+*Previous: [04 — Prompt Engineering](./04_Prompt_Engineering.md)*

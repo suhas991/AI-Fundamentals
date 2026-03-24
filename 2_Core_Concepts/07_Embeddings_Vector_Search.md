@@ -260,4 +260,4 @@ SEMANTIC SEARCH
 
 ---
 
-*Previous: [06 — Hallucinations & Limitations](./06_Hallucinations_Limitations.md) | Next: [08 — Fine-tuning vs RAG](./08_Finetuning_vs_RAG.md)*
+*Previous: [06 — Hallucinations & Limitations](./06_Hallucinations_Limitations.md)*

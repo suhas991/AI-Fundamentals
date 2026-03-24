@@ -260,4 +260,4 @@ KEY INSIGHT:
 
 ---
 
-*Previous: [05 — System vs User Prompts](./05_System_vs_User_Prompts.md) | Next: [07 — Embeddings & Vector Search](./07_Embeddings_Vector_Search.md)*
+*Previous: [05 — System vs User Prompts](./05_System_vs_User_Prompts.md)*

@@ -193,5 +193,3 @@ Input Layer → Hidden Layer 1 → Hidden Layer 2 → ... → Hidden Layer N →
 - For structured/tabular data, traditional ML (XGBoost, Random Forest) often **outperforms** deep learning
 
 ---
-
-*Next: [02 — Large Language Models (LLMs)](./02_Large_Language_Models.md)*
