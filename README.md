@@ -7,6 +7,7 @@ A structured learning repository covering core AI concepts from fundamentals to 
 - [1_Introduction](1_Introduction)
 - [2_Core_Concepts](2_Core_Concepts)
 - [3_Interview_Hot_Topics](3_Interview_Hot_Topics)
+- [4_Transformers](4_Transformers)
 
 ## Core Concepts Index
 
@@ -39,6 +40,18 @@ Direct links:
 - [04 - Choosing the Right Model for a Task](3_Interview_Hot_Topics/04_Choosing_Right_Model.md)
 - [05 - Latency vs Quality Trade-offs](3_Interview_Hot_Topics/05_Latency_vs_Quality_Tradeoffs.md)
 - [06 - Responsible AI: Bias, Ethics, and Governance](3_Interview_Hot_Topics/06_Responsible_AI_Bias_Ethics.md)
+
+## Transformers Index
+
+Start here:
+
+- [Transformers Syllabus](4_Transformers/00_Syllabus.md)
+
+Direct links:
+
+- [01 - Transformers Overview](4_Transformers/01_Transformers_Overview.md)
+- [02 - Attention Mechanism](4_Transformers/02_Attention_Mechanism.md)
+- [03 - How Transformers Work](4_Transformers/03_How_Transformers_Work.md)
 
 ## Usage
 
